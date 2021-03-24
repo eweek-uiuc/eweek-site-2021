@@ -1,10 +1,7 @@
 import React from 'react';
 
-import Slogan from '../../../assets/slogan.png';
-
 const About = () => (
     <div className="about">
-        {/* <img className="about__title" src={Slogan} alt="slogan"/> */}
         <p>
             E-Week is a week-long celebration highlighting the contributions to society that engineers make.
             Started in 1951 by the National Society of Professional Engineers, this particular week

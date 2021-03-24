@@ -23,10 +23,10 @@ import shoe from '../../../assets/events/shoe.png';
 import target from '../../../assets/events/target.png';
 import shirt from '../../../assets/events/tshirt.png';
 
-import goldman from '../../../assets/sponsors/goldman_black.png';
-import synchrony from '../../../assets/sponsors/synchrony.png';
-import sbb from '../../../assets/sponsors/sbb.png';
-import harting from '../../../assets/sponsors/harting_black.png';
+import goldman from '../../../assets/logo_white.png';
+import synchrony from '../../../assets/logo_white.png';
+import sbb from '../../../assets/logo_white.png';
+import harting from '../../../assets/logo_white.png';
 
 const events = [
     {

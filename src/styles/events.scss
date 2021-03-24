@@ -80,8 +80,8 @@
 
       h3 {
         margin: 0;
-        font: lighter 1.5em "Dust West";
-        color: $eweek-yellow;
+        font-size: 1.5em;
+        color: $eweek-red;
 
         @media (max-width: 760px) {
           text-align: center;
@@ -124,7 +124,7 @@
               justify-content: center;
               align-items: center;
 
-              background-color: $eweek-yellow;
+              background-color: $eweek-blue;
 
               border-radius: 50%;
               height: 5vw;

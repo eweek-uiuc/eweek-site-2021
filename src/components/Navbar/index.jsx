@@ -72,7 +72,7 @@ class Nav extends Component {
           <img className="close" src={close} alt="close pane" onClick={this.toggleMenu} />
           <img src={Logo} alt="EWEEK Logo" />
           <Link onClick={this.toggleMenu} to="/">Home</Link>
-          <a href="https://forms.gle/QP33CCbiTi9d6xBq9" target="_blank" rel="noopener noreferrer">Register</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScXZP7v9WDfrn0FHtWpkVGH4B9i9mUr0BsySId3fimm3_y3Ig/viewform" target="_blank" rel="noopener noreferrer">Register</a>
           {/* <Link onClick={this.toggleMenu} to="/events">Events</Link> */}
           {/* <a href="https://docs.google.com/spreadsheets/d/1YE6h1A3jwMWX97aLxMH2j-Eobd7uolbgxkipIHND4bs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Leaderboard</a> */}
           {/* <Link onClick={this.toggleMenu} to="/awards">Awards</Link> */}
